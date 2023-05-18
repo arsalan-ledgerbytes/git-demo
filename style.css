@@ -83,3 +83,19 @@ body {
   left: 50%;
   transform: translateX(-50%);
 }
+h1 {
+  font-size: 40px;
+  font-weight: bold;
+  color: #e41919;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+h2 {
+  font-size: 20px;
+  font-weight: bold;
+  color: #e7d002;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
